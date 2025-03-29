@@ -37,3 +37,8 @@ body {
   }
 
 }
+
+#Hero-Section{
+  color: rgb(255, 0, 0);
+  text-align: right;
+}
